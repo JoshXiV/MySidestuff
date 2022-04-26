@@ -14,7 +14,7 @@ hmtl{
 
     'Helvetica Neue', Arial, sans-serif;
 
-  line-height: 2.0;
+
 
   text-align: center;
 
@@ -42,13 +42,13 @@ hmtl{
 
   font-size: 6em;
 
-  line-height:1.5em;
+
 
 }
 
 #image{
 
-  width:1000px;
+  width:auto;
 
   display: block;
 
