@@ -1,0 +1,71 @@
+}
+
+#img-div{
+
+  background: white ;
+
+}
+
+#tributelink{
+
+  color: blue;
+
+}
+
+#headline{
+
+  color: lightblue;
+
+}
+
+#title{
+
+  color: indigo;
+
+  font-family: Times New Roman;
+
+}
+
+ul{
+
+  max-width: 550px;
+
+  margin: 0 auto 50px auto;
+
+  text-align: left;
+
+  line-height:1.6em;
+
+}
+
+li{
+
+  margin: 16px 0;
+
+}
+
+blockquote{
+
+  font-style: italic;
+
+  max-width: 545px;
+
+  margin: 0 auto 70px auto;
+
+  text-align: left;
+
+}
+
+#divup {
+
+  color: blue;
+
+ 
+
+}
+
+h3{
+
+  text-shadow: 2px 2px 1px black ;
+
+}
